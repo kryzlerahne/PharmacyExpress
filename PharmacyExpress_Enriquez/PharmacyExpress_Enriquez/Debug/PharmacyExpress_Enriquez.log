@@ -1,0 +1,17 @@
+﻿Build started 23/01/2021 10:42:33 PM.
+     1>Project "D:\Files\First Year Files\Online Class 2nd Sem\CompProg\Programming Project\PharmacyExpress_Enriquez\PharmacyExpress_Enriquez\PharmacyExpress_Enriquez.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PharmacyExpress_Enriquez.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         PharmacyExpress_Enriquez.vcxproj -> D:\Files\First Year Files\Online Class 2nd Sem\CompProg\Programming Project\PharmacyExpress_Enriquez\Debug\PharmacyExpress_Enriquez.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\PharmacyExpress_Enriquez.unsuccessfulbuild".
+         Touching "Debug\PharmacyExpress_Enriquez.lastbuildstate".
+     1>Done Building Project "D:\Files\First Year Files\Online Class 2nd Sem\CompProg\Programming Project\PharmacyExpress_Enriquez\PharmacyExpress_Enriquez\PharmacyExpress_Enriquez.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
